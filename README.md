@@ -26,3 +26,11 @@
 
 11, As a loggin in user I want a 'Messages' page so that I can read and write messages.
     I also want see how many unread messages I have.
+    
+12, As a developer I want a webservice that sends out emails to users when there is at least one buddy request.
+    Recipents are selected based on their location or music likes.
+    Emails are sent once a week.
+    
+13, As a developer I want a webservice that automatically posts, tweets on social media all the buddy requests so that the     request reaches as many people as possible.
+
+

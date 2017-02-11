@@ -33,4 +33,7 @@
     
 13, As a developer I want a webservice that automatically posts, tweets on social media all the buddy requests so that the     request reaches as many people as possible.
 
+14, As a developer I want a feedback pop up page so that I can make improvement to the website.
+    Star rating, comment
+
 
